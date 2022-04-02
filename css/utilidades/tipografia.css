@@ -1,5 +1,8 @@
+.font-1-xxl{
+  font: 600 4rem/1.125 "Popping", sans serif,
+}
 .font-1-xs {
-  font: 500 0.75rem/1.35 "Poppins", sans-serif;
+  font: 400 0.75rem/1.35 "Poppins", sans-serif;
 }
 
 .font-2-xs {
